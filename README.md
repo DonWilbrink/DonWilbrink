@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonWilbrink
 - 👀 I’m interested in Pascal, Delphi, Lazarus, Web programming and Android programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me don.wilbrink@gmail.com
 
